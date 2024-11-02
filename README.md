@@ -2,7 +2,7 @@
 
 This is an advanced calculator built using HTML, CSS, and JavaScript. It features a user-friendly interface and supports various mathematical operations, including addition, subtraction, multiplication, division, percentages, squares, and square roots.
 
-#Calculator Screen-shot
+# Calculator Screen-shot
 
 ![Screenshot 2024-11-02 120112](https://github.com/user-attachments/assets/08798fab-393b-4cb3-a825-e475c24531ad)<!-- Optional: Add a screenshot of your calculator -->
 
