@@ -26,3 +26,12 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/vrafounder/calculator.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd calculator
+   
+3.*Open the HTML file**:
+   Open index.html in your web browser to view and use the calculator.
+
+
