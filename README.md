@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
    ```bash
    cd calculator
    
-3.**Open the HTML file**:
+3. **Open the HTML file**:
    Open index.html in your web browser to view and use the calculator.
 
 
