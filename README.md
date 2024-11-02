@@ -6,6 +6,8 @@ This is an advanced calculator built using HTML, CSS, and JavaScript. It feature
 
 ![Screenshot 2024-11-02 120112](https://github.com/user-attachments/assets/08798fab-393b-4cb3-a825-e475c24531ad)<!-- Optional: Add a screenshot of your calculator -->
 
+Demo - https://calculator-vra.netlify.app/
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
